@@ -1,0 +1,47 @@
+
+
+h1 {
+    text-align: center;
+    margin-left: 100px;
+    
+  }  
+   
+  body {
+       text-align: center;
+     background-color: blueviolet;
+     font-size: medium;
+   }
+
+  #hobbydescription {
+    text-align: center;
+  
+}
+
+#About {
+  text-align: center;
+
+}
+
+   .menu {
+     list-style: none;
+     font-family: cursive;
+     float: right;
+     top: 10px;
+     right: 30px;
+     cursor: pointer;
+     color: black;
+     background-color:violet;
+   }
+
+   .link {
+     color:black;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     display:inline;
+   }
+
+   .link a:hover{
+     background-color: blue;
+   }
